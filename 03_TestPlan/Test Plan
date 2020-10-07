@@ -1,0 +1,159 @@
+T01
+
+  Creating a user - getting basic details from the user and saving them for future use.	
+
+  
+
+  Name: xxx
+
+  DOB: dd/mm/yyyy
+
+  Contact: yyy
+
+  Address: zzz
+
+  Proof: www	
+
+  
+
+  Account created successfully / Invalid Details	
+
+  
+
+  Account created successfully
+
+T02	
+
+  Creating a user - getting basic details from the user and saving them for future use.	
+
+  
+
+  Name: 
+
+  DOB:
+
+  Contact:
+
+  Address:
+
+  
+
+  Proof:	Account created successfully / Invalid Details	
+
+  
+
+  Invalid Details
+
+T03	
+
+  Deposit - transaction done by the user to save money in the bank.	
+
+  
+
+  Acct No: xxx
+
+  Date: dd/mm/yyyy
+
+  Amount: yyy	
+
+  
+
+  Amount has been debited and the balance is : yyy / Invalid Acct no	
+
+  
+
+  Amount has been debited and the balance is : yyy
+
+T04	
+
+  Deposit - transaction done by the user to save money in the bank.	
+
+  
+
+  Acct No:
+
+  Date:
+
+  Amount:	
+
+  
+
+  Amount has been debited and the balance is : / Invalid Acct no	
+
+  
+
+  Invalid Acct no
+
+T05	
+
+  Withdraw - the money credited by the user from the bank.	
+
+  
+
+  Acct No: xxx
+
+  Date: dd/mm/yyyy
+
+  Amount: yyy	
+
+  
+
+  Amount has been credited and the balance is : yyy / Invalid Acct no
+
+  
+
+  Amount has been credited and the balance is : yyy
+
+T06	
+
+  Withdraw - the money credited by the user from the bank.	
+
+  
+
+  Acct No:
+
+  Date:
+
+  Amount:	
+
+  
+
+  Amount has been credited and the balance is : / Invalid Acct no	
+
+  
+
+  Invalid Acct no
+
+T07	
+
+  View Balance - the feature that enables the user to check the balance amount in the account.	
+
+  
+
+  Acct No: xxx
+
+  Date: dd/mm/yyyy
+
+  
+
+	Available Balance :yyy / Invalid Acct No	
+
+  
+
+  Available Balance :yyy
+
+T08	
+
+  View Balance - the feature that enables the user to check the balance amount in the account.	
+
+  
+
+  Acct No:
+
+  Date:
+
+	Available Balance : / Invalid Acct No	
+
+  
+
+  Invalid Acct No
